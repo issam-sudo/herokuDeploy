@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngulrheroku"
+    }
+  },
+  "defaultProject": "ngulrheroku",
+  "cli": {
+    "analytics": "f14e15a0-0831-4b5a-a724-c47a3bc75536"
+  }
 }
